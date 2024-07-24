@@ -4,10 +4,10 @@
 
 <h2 align="center"> Front-End Application </h2>
 
-<h4 align="center"> ~ Using Angular, Bootstrap, @ngx-translate,  ~ </h4>
+<h4 align="center"> ~ Using @angular/cli, Bootstrap, @ngx-translate  ~ </h4>
 
 ## Packages Versions
 
-- Angular : 18.0.0
+- @angular/cli : 18.0.3
 - Bootstrap : 5.3.3
 - @ngx-translate : (core - 15.0.0, http-loader - 8.0.0)
